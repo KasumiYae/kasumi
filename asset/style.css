@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+/* 1 rem = 10 px */
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    /**font*/
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+/*out code */
+a{
+    text-decoration: none;
+}
+
+.main-con{
+    width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*-----------hearder-----------------------------------*/
+.header .body{
+    display: flex;
+}
+
+.nav{
+    margin-left: auto;
+}
+
+.nav ul{
+    display: flex;
+    
+}
+
